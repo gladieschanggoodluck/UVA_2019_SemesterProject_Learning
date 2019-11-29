@@ -69,13 +69,7 @@ Nationality (Country, Squad, Rating)
 * Spain 4-3-1-2 86.91
 * Spain 4-3-3 86.82
 * Spain 4-2-3-1 86.82
-# Squad Overall
-Nationality (Country, Squad, Rating)
-* Spain 3-4-3 86.36
-* Spain 4-4-2 86.18
-* Spain 4-3-1-2 86.91
-* Spain 4-3-3 86.82
-* Spain 4-2-3-1 86.82
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig12.PNG)
 # Squad Overall
 Nationality (Country, Squad, Rating)
 * Brazil 3-4-3 85.82
