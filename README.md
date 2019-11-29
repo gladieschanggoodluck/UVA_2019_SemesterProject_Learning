@@ -53,7 +53,7 @@ Nationality (Country, Squad, Rating)
 * Germany 4-3-1-2 85.64
 * Germany 4-3-3 85.91
 * Germany 4-2-3-1 85.73
-
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig10.PNG)
 # Squad Overall
 Nationality (Country, Squad, Rating) 
 * France 3-4-3 85.64
