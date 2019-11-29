@@ -1,13 +1,13 @@
 # UVA_2019_SemesterProject_Learning FIFA players’ traits - What makes an elite soccer player?
 ![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/1122PHOTO.png)
 In 2019, the FIFA roster includes a great number of players from a total of 136 countries. The top three participating countries based on the numbers of players are England, Germany and Spain. Using an interactive world map, it is possible to hover the cursor over any participating country of interest to ascertain its average “Overall Rating”. 
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig1.png)
 A variety of player attributes are used to understand the individual skills needed to be an elite level player. Since the game of soccer involves many different field positions, each of which favor players with certain innate attributes/features as well as mastery of certain skills, the combination of position, features and skills were identified and analyzed. First is the correlations between players attributes and skills, second is the features needed to be an elite player in each position group or position. Third is each country’s strategic field formation used by the national team.
 This study focuses on FIFA players, their nationalities and the traits they possess. The data was statistically analyzed by making correlations between players performance and their physical features and skills. The data was presented in both tabular and graphical formats. The summary of the results of players features is offered.
 # Exploratory Data Analysis: 
 The top FIFA soccer player based on overall performance is the Argentinian Lionel Messi. According to the data provided for the analysis, Messi’s most prominent qualities are: physicality, pace, passing and shooting ability.
 ![alt text]( https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig2.png)
 The overall top three country ranking based on the analysis were shown to be (Spain, France, Brazil). 
-![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig1.png)
 What is required for a country to achieve a high status or success in international soccer? Upon analyzing the correlation between overall player ratings and attributes, the strongest three are passing, dribbling and base stats. Because the purpose of this study is to try and understand overall player ratings based on nationality, the attributes of actual field position and a broader position groups must be included in order to establish what makes the best players based on their field position.
 Using tuple to get the top index 
 # Postion
