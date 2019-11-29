@@ -61,6 +61,7 @@ Nationality (Country, Squad, Rating)
 * France 4-3-1-2 86.36
 * France 4-3-3 85.64
 * France 4-2-3-1 85.55
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig11.PNG)
 # Squad Overall
 Nationality (Country, Squad, Rating)
 * Spain 3-4-3 86.36
