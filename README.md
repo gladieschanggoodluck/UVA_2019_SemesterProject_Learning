@@ -77,3 +77,10 @@ Nationality (Country, Squad, Rating)
 * Brazil 4-3-1-2 85.09
 * Brazil 4-3-3 85.91
 * Brazil 4-2-3-1 85.73
+# Squad  Overall
+Nationality (Country, Squad, Rating)                 
+England        3-4-3    82.82
+England        4-4-2    83.00
+England      4-3-1-2    83.00
+England        4-3-3    83.27
+England      4-2-3-1    83.18
