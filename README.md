@@ -10,7 +10,8 @@ The top FIFA soccer player based on overall performance is the Argentinian Lione
 The overall top tcountry ranking based on the analysis were shown to be Brazil. 
 ![alt text]( https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig3.png)
 What is required for a country to achieve a high status or success in international soccer? Upon analyzing the correlation between overall player ratings and attributes, the strongest three are passing, dribbling and base stats. Because the purpose of this study is to try and understand overall player ratings based on nationality, the attributes of actual field position and a broader position groups must be included in order to establish what makes the best players based on their field position.
-Using tuple to get the top index 
+Using tuple to get the top index
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig4.PNG)
 # Postion
 * Position CAM: Base Stats, Pace, Dribbling
 * Position CB: Physicality, Defending, Base Stats
@@ -29,7 +30,7 @@ Using tuple to get the top index
 * Position RW: Pace, Base Stats, Dribbling
 * Position RWB: Pace, Base Stats, Physicality
 * Position ST: Base Stats, Pace, Physicality
-
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig5.PNG)
 # Position Group: Attacker, Defender, Goal Keeper and Midfielder
 Position Attacker: Pace, Dribbling, Shooting, Physicality
 Position Defender: Physicality, Defending, Pace, Dribbling
