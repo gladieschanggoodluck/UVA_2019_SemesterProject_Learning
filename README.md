@@ -7,6 +7,7 @@ This study focuses on FIFA players, their nationalities and the traits they poss
 The top FIFA soccer player based on overall performance is the Argentinian Lionel Messi. According to the data provided for the analysis, Messi’s most prominent qualities are: physicality, pace, passing and shooting ability.
 The overall top three country ranking based on the analysis were shown to be (Spain, France, Brazil). What is required for a country to achieve a high status or success in international soccer? Upon analyzing the correlation between overall player ratings and attributes, the strongest three are passing, dribbling and base stats. Because the purpose of this study is to try and understand overall player ratings based on nationality, the attributes of actual field position and a broader position groups must be included in order to establish what makes the best players based on their field position.
 Using tuple to get the top index 
+# Postion
 * Position CAM: Base Stats, Pace, Dribbling
 * Position CB: Physicality, Defending, Base Stats
 * Position CDM: Base Stats, Physicality, Defending
@@ -25,7 +26,7 @@ Using tuple to get the top index
 * Position RWB: Pace, Base Stats, Physicality
 * Position ST: Base Stats, Pace, Physicality
 
-The attributes of Attacker, Defender, Goal Keeper and Midfielder
+# Position Group: Attacker, Defender, Goal Keeper and Midfielder
 Position Attacker: Pace, Dribbling, Shooting, Physicality
 Position Defender: Physicality, Defending, Pace, Dribbling
 Position Goal Keeper: Dribbling, Pace, Physicality, Shooting
