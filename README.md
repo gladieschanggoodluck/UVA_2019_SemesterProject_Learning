@@ -77,6 +77,7 @@ Nationality (Country, Squad, Rating)
 * Brazil 4-3-1-2 85.09
 * Brazil 4-3-3 85.91
 * Brazil 4-2-3-1 85.73
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig13.PNG)
 # Squad  Overall
 Nationality (Country, Squad, Rating)                 
 * England        3-4-3    82.82
