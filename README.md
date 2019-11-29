@@ -37,7 +37,7 @@ The strategies and formations used by the respective top national teams are anal
 It seems the national teams favoring more traditional formations, like 3-4-3 or 4-4-2, achieve success because of the balance between the safer defensive and the riskier offensive play-styles. An ideal defense will never lose a match. However, to win competitions teams need to win matches and that involves taking risks and scoring goals. 
 Squad = ['3-4-3', '4-4-2', '4-3-1-2', '4-3-3', '4-2-3-1']
 # Squad Overall
-Nationality 
+Nationality (Country, Squad, Rating)
 * Germany 3-4-3 85.36
 * Germany 4-4-2 84.82
 * Germany 4-3-1-2 85.64
@@ -45,28 +45,28 @@ Nationality
 * Germany 4-2-3-1 85.73
 
 # Squad Overall
-Nationality 
+Nationality (Country, Squad, Rating) 
 * France 3-4-3 85.64
 * France 4-4-2 85.36
 * France 4-3-1-2 86.36
 * France 4-3-3 85.64
 * France 4-2-3-1 85.55
 # Squad Overall
-Nationality 
+Nationality (Country, Squad, Rating)
 * Spain 3-4-3 86.36
 * Spain 4-4-2 86.18
 * Spain 4-3-1-2 86.91
 * Spain 4-3-3 86.82
 * Spain 4-2-3-1 86.82
 # Squad Overall
-Nationality 
+Nationality (Country, Squad, Rating)
 * Spain 3-4-3 86.36
 * Spain 4-4-2 86.18
 * Spain 4-3-1-2 86.91
 * Spain 4-3-3 86.82
 * Spain 4-2-3-1 86.82
 # Squad Overall
-Nationality 
+Nationality (Country, Squad, Rating)
 * Brazil 3-4-3 85.82
 * Brazil 4-4-2 84.64
 * Brazil 4-3-1-2 85.09
