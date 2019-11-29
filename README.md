@@ -88,3 +88,4 @@ Nationality (Country, Squad, Rating)
 * England        4-3-3    83.27
 * England      4-2-3-1    83.18
 ![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig14.PNG)
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig16.png)
