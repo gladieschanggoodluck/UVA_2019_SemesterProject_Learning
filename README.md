@@ -32,10 +32,10 @@ Using tuple to get the top index
 * Position ST: Base Stats, Pace, Physicality
 ![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig5.PNG)
 # Position Group: Attacker, Defender, Goal Keeper and Midfielder
-Position Attacker: Pace, Dribbling, Shooting, Physicality
-Position Defender: Physicality, Defending, Pace, Dribbling
-Position Goal Keeper: Dribbling, Pace, Physicality, Shooting
-Position Midfielder: Pace, Dribbling, Physicality, Passing
+* Position Attacker: Pace, Dribbling, Shooting, Physicality
+* Position Defender: Physicality, Defending, Pace, Dribbling
+* Position Goal Keeper: Dribbling, Pace, Physicality, Shooting
+* Position Midfielder: Pace, Dribbling, Physicality, Passing
 
 Interactive scatter plots are made to allow the selection of attributes of interest to check the correlation, the color and size are also the variables which allow users to select. 
 ![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig6.PNG)
