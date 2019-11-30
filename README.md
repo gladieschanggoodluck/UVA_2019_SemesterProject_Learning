@@ -43,7 +43,7 @@ Interactive scatter plots are made to allow the selection of attributes of inter
 ![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig6.PNG)
 # Correlation between player attributes
 A corrleation matrix was plotted and displayed as a heatmap to understand correlation between each attribute. The heatmap is color-coded scale of correlation coefficient gives a quick overview of which skills are highly correlated and which are negatively correlated. 
-![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig21.PNG)
+![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig21.png)
 
 Since there are a total of 136 countries in FIFA in 2019, a further understanding of each field position group; player strength based on the continent, the top three performing continents in the positions of Attacker. Midfielder, Goal Keeper and Defenders are South America, Europe and Africa
 ![alt text](https://github.com/gladieschanggoodluck/UVA_2019_SemesterProject_Learning/blob/Photos/fig7.png)
